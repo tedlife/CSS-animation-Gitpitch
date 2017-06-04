@@ -1,2 +1,5 @@
 # CSS-animation-Gitpitch
-使用 Gitpitch 制作的关于 CSS 布局的幻灯片. https://gitpitch.com/tedlife/css-animation-gitpitch
+
+Udacity 前端入门优等生互助班 9 期第三次直播课件。
+
+查看地址：https://gitpitch.com/tedlife/css-animation-gitpitch
